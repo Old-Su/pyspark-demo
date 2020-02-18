@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/uber_data_nyc_2016-06_new.csv/
+.idea/
